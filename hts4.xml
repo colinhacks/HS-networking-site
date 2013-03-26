@@ -1,0 +1,7 @@
+<html>
+<body>
+
+<form action="/missions/basic/4/level4.php" method="post">
+                         <input type="hidden" name="to" value="colinmcd@mit.edu" /><input type="submit" value="Send password to Sam" /></form>
+                         
+                         </body></html>

@@ -1,0 +1,24 @@
+	
+	unset( $_SESSION['school_name_1']);
+	unset( $_SESSION['school_name_2']);
+	unset( $_SESSION['school_name_3']);
+	unset( $_SESSION['school_name_4']);
+	unset( $_SESSION['co']);
+	unset( $_SESSION['ug']);
+	unset( $_SESSION['fed']);
+	unset( $_SESSION['ps']);
+	unset( $_SESSION['ad1']);
+	unset( $_SESSION['ad2']);
+	unset( $_SESSION['cy']);
+	unset( $_SESSION['st']);
+	unset( $_SESSION['zip']);
+	unset( $_SESSION['country']); 
+	unset( $_SESSION['pn']);
+	unset( $_SESSION['pos']);
+	unset( $_SESSION['com']);
+	unset( $_SESSION['posp1']);
+	unset( $_SESSION['comp1']);
+	unset( $_SESSION['posp2']);
+	unset( $_SESSION['comp2'] );
+	unset( $_SESSION['posp3']);
+	unset( $_SESSION['comp3']);

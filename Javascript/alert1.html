@@ -1,0 +1,31 @@
+<html>
+
+<head></head>
+
+<body>
+
+
+<script type = 'text/javascript' >
+var counter = 1;
+function addJob1(){
+	document.getElementById("jobs").innerHTML=document.getElementById("jobs").innerHTML+"Job "+counter+": <input type='text' name= 'job" +counter+"' /><br />";
+	counter ++;
+}
+</script>
+<button  type='button' onclick=addJob1()>Add Job</button>
+
+
+
+<form action='process_jobs.php' method='POST'>
+
+
+<span id=jobs></span>
+
+
+<input type='submit' value = "Submit" />
+</form>
+
+</body>
+
+
+</html>

@@ -1,0 +1,23 @@
+	echo "<div style='float:right;'>";
+		echo "<table>";
+			echo "<tr>";
+				echo "<td><a href='".$_SERVER[PHP_SELF]"'?job=school_page&school_id=.class='";
+				echo "</td>";
+			echo "</tr>";
+			echo "<tr>";
+			echo "</tr>";
+			echo "<tr>";
+			echo "</tr>";
+			echo "<tr>";
+			echo "</tr>";
+			echo "<tr>";
+			echo "</tr>";
+			echo "<tr>";
+			echo "</tr>";
+			echo "<tr>";
+			echo "</tr>";
+			echo "<tr>";
+			echo "</tr>";
+		echo "</table>";
+	echo "</div>";
+	
